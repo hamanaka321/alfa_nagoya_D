@@ -143,8 +143,7 @@ button {
 }
 
 .column {
-  width: 383px;
-  height: 167px;
+  width: 100%;
 }
 
 .card {
