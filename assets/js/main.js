@@ -100,7 +100,7 @@ app.component('answer-input', {
     return {
       /* 送信ボタン上下に表示されるメッセージ */
       okMessage: '正解！',
-      ngMessage: 'そのキーワードは違うようだぞ！？',
+      ngMessage: 'scp682 通称:クソトカゲが放たれた',
       message: '',
       inputAnswer: '',
     }
